@@ -1,0 +1,18 @@
+.row-class{
+    display: flex;
+    text-align: center;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+    padding-left: 20px;
+
+}
+
+
+.living-room{
+    object-position: right;
+}
+
+.changeFont{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(117, 56, 13);
+}

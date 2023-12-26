@@ -1,0 +1,22 @@
+.changeBtn{
+    background-color: #6f4e37 !important;
+}
+
+.changeFont{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(117, 56, 13);
+}
+
+.cancelBtn{
+    background-color: #B1907F !important;
+}
+
+.bookService{
+    text-align: center;
+}
+
+.bookCard{
+    border-radius: 30px;
+    box-shadow: #B1907F 10px 10px 10px 10px;
+    box-sizing: border-box;
+}

@@ -1,0 +1,22 @@
+.updateBtn{
+    float: right;
+    right: 0%;
+    background-color: #6f4e37 !important;
+    border-radius: 50%;
+}
+
+.cancelBtn{
+    background-color: #6f4e37 !important;
+    /*color: black !important;*/
+    float: left;
+}
+
+.form-style{
+    border-radius: 30px;
+    box-shadow: #B1907F 10px 10px 10px 10px;
+    box-sizing: border-box;
+}
+
+.text-center{
+    font-family: 'Times New Roman', Times, serif;
+}

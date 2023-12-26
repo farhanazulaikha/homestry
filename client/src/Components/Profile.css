@@ -1,0 +1,33 @@
+
+
+.user-img{
+    display: flex;
+    /* justify-content: flex-start; */
+    width: 70%;
+    /* margin-left: 50px; */
+    float:left;
+}
+
+.changeBtn{
+  background-color: #6f4e37 !important;
+  float: right;
+}
+
+.changeFont{
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(117, 56, 13);
+}
+
+/* .pr{ */
+  /* width: 80%; */
+  /* float:left; */
+/* } */
+
+/* .profile-row {
+    display: table; /* Make the container element behave like a table */
+    /* width: 100%; Set full-width to expand the whole page */
+  /* } */
+  
+  /* .profile-col { */
+    /* display: table-cell; Make elements inside the container behave like table cells */
+  /* } */

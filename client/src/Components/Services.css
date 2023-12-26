@@ -1,0 +1,9 @@
+.image{
+    max-width: 200px;
+    height: 200px;
+}
+
+.changeFont{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(117, 56, 13);
+}
